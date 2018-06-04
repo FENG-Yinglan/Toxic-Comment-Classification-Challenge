@@ -1,2 +1,2 @@
 # Toxic-Comment-Classification-Challenge
-Identify and classify toxic online comments
+Built several standard models with word embeddings and CNN/RNN using Keras and used a weighted mean of arithmetic averaging and stacking.
